@@ -1,6 +1,6 @@
 {
-  "name": "element-theme",
-  "version": "2.0.1",
+  "name": "element-theme-gulp-v4",
+  "version": "4.0.1",
   "description": "Theme generator cli tool for Element",
   "bin": {
     "element-theme": "./bin/element-theme",
@@ -24,7 +24,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:ElementUI/element-theme.git"
+    "url": "git@github.com:FrankCheungCN/element-theme.git"
   },
   "keywords": [
     "element-ui",

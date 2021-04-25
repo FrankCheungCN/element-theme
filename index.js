@@ -34,5 +34,5 @@ exports.run = function (opts, cb) {
   if (typeof cb === 'function') {
     return gulp.series("build", "fonts", cb)(noop)
   }
-  return gulp.series("build", "fonts", cb)(noop)
+  return gulp.series("build", "fonts")(noop)
 }
