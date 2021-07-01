@@ -1,6 +1,6 @@
 {
   "name": "element-theme-gulp-v4",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "Theme generator cli tool for Element",
   "bin": {
     "element-theme": "./bin/element-theme",
