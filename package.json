@@ -1,6 +1,6 @@
 {
   "name": "element-theme-gulp-v4",
-  "version": "4.0.2",
+  "version": "4.0.3",
   "description": "Theme generator cli tool for Element",
   "bin": {
     "element-theme": "./bin/element-theme",
@@ -32,10 +32,7 @@
     "theme",
     "cli"
   ],
-  "bugs": {
-    "url": "https://github.com/ElementUI/element-theme/issues"
-  },
-  "author": "qingwei-li <cinwell.li@gmail.com> (https://github.com/QingWei-Li)",
+  "author": "FrankCheung <frank.cheung.work@outlook.com>",
   "engines": {
     "node": ">=0.12.0"
   },

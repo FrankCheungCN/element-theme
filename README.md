@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/ElementUI/element-theme.svg?branch=master)](https://travis-ci.org/ElementUI/element-theme)
 [![npm](https://img.shields.io/npm/v/element-theme.svg)](https://www.npmjs.com/package/element-theme)
 
-**THIS VERSION IS ONLY UPGRADING GULP TO V4 AND CHANGE SOME API CALLS TO MAKE IT WORK WITH HIGHER VERSION NODE.**
+**THIS VERSION IS UPGRADING GULP TO V4 AND CHANGE SOME API CALLS TO MAKE IT WORK WITH HIGHER VERSION NODE. ALSO, NODE-SASS IS REPLACED WITH DART-SASS.**
 
 > Theme generator cli tool for Element.
 
